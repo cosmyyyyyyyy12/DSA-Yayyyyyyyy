@@ -1,2 +1,2 @@
-# DSA-Yayyyyyyyy
+# DSA
 DSA solutions 
